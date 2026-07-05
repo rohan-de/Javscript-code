@@ -1,2 +1,2 @@
-# Javscript-code
+# Javascript-code
 A code repo javascript series 
